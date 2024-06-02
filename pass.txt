@@ -1,0 +1,56 @@
+Google Gmail
+--
+aleksa.prohorova.art@gmail.com
+0vmBr0O4kqJsaRcVuHNt
+
+
+/////////////////////////////////
+
+GitHub
+--
+leksapro
+aleksa.prohorova.art@gmail.com
+rB4RWEYhlIEgJZxD3hIV
+
+
+git config --global user.name "Alex Ander"
+git config --global user.email aleksa.prohorova.art@gmail.com
+
+git config credential.username "leksapro"
+
+ssh-keygen -t rsa -b 4096 -C "aleksa.prohorova.art@gmail.com"
+
+ssh-keygen -t rsa -C "aleksa.prohorova.art@gmail.com"
+
+
+SWEB
+--
+aleksaproa
+X2PYefJ&5Vaup4E9
+
+/////////////////////////////////
+https://aleksaproart.ru - сайт для переноса
+https://callibri.ru/generator_utm_metok - генерация utm метки
+
+
+ssh aleksaproa@77.222.40.147
+X2PYefJ&5Vaup4E9
+
+git clone https://github.com/definaru/alexaproart.git
+
+git add .
+git remote add origin https://github.com/definaru/alexaproart.git
+git checkout -b dev
+git commit -m "Update pages"
+git push -u origin dev
+
+Доступ регистратор01. 
+Пока стоит блокировка до 11.08.23, до 00.45. Любые действия, так как был запрос на смену пароля 
+
+Вот можешь войти и потом настроить всё 
+Домен aleksaproart.ru
+--
+https://partner.r01.ru
+--
+Логин 316396/R01-REG
+Пароль e1cc347384

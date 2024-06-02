@@ -1,0 +1,17 @@
+{
+  "name": "aleksaproart",
+  "version": "1.0.0",
+  "description": "Художник по росписи стен и рисованию интерьерных картин",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress dev src",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress build src"
+  },
+  "author": "Defina ÜO",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.9",
+    "@vuepress/plugin-medium-zoom": "^1.9.9",
+    "vuepress": "^1.9.9"
+  }
+}
